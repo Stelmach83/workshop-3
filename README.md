@@ -16,6 +16,6 @@
 * Wyświetlanie grup oraz ich użytkowników
 
 #### Quick start dla osób chcących przetestować:
-* Logujemy się do ‘Admin panel’ (user/pass) - mamy dostęp do CRUD dla Users, Groups, Exercises
+* Logujemy się do 'Admin panel' (user/pass) - mamy dostęp do CRUD dla Users, Groups, Exercises
 * Tworzymy swojego użytkownika (hasło jest szyfrowane SHA256 i bezpieczne w bazie danych).
-* Logujemy się do Users Panel i mamy dostęp do CRUD dla rozwiązań dla danego użytkownika.
+* Logujemy się do 'User panel' i mamy dostęp do CRUD dla rozwiązań dla naszego konta.

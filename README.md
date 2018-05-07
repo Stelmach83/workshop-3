@@ -21,8 +21,6 @@
 * Logujemy się do 'User panel' i mamy dostęp do CRUD dla rozwiązań dla naszego konta.
 
 
-
-
 ## (ENG) Workshop 3 (Coders Lab Bootcamp) - Programming school web app
 ### Deployed online version: www.szak.io/w3
 
@@ -43,6 +41,6 @@
 #### A quick start for testing purposes:
 * Login to 'Admin panel' (user/pass) - you gain access to CRUD for Users, Groups, Exercises.
 * Create your own user (the password is encrypted and safely stored in DB).
-* Login with your newsly created user in 'User panel', and gain CRUD access to your personal Solutions.
+* Login with your newly created user in 'User panel', and gain CRUD access to your personal Solutions.
 
 

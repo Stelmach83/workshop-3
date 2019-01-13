@@ -1,4 +1,4 @@
-## (PL) Warsztat 3 - Aplikacja Szkoła Programowania
+## (PL) Aplikacja Szkoła Programowania
 ### Dostępna wersja online: www.szak.io/w3
 
 #### Wykorzystane technologie:
@@ -21,7 +21,7 @@
 * Logujemy się do 'User panel' i mamy dostęp do CRUD dla rozwiązań dla naszego konta.
 
 
-## (ENG) Workshop 3 (Coders Lab Bootcamp) - Programming school web app
+## (ENG) Programming school web app
 ### Deployed online version: www.szak.io/w3
 
 #### Technologies used in project:
